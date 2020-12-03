@@ -1,0 +1,8 @@
+## Interface: 80200
+## Title: |cFF00CCFFSmexyGMO(SGMO) |r by: |cFFFF8000Lunixia|r Retail & Classic
+## Notes: Delays GMOTD to load last after all other addons post to chat box.
+## Version: Retail & Classic
+## SavedVariables: SmexyGMOdb
+## Author: Lunixia#1530
+
+SmexyGMO.lua
